@@ -1,9 +1,9 @@
 {
-  "name": "San Bernardino",
-  "short_name": "San Bernardi",
+  "name": "Geotechnicalengineering1",
+  "short_name": "Geotechnical",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#7C2D12",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "en",
-  "orientation": "portrait",
-  "scope": "/",
-  "description": "Professional geotechnical services in San Bernardino, USA. Soil studies, testing and technical consulting.",
-  "id": "/san-bernardino-3321"
+  ]
 }
